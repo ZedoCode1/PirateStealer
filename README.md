@@ -7,15 +7,6 @@ Discord Password Token Grabber
 
 #### ⚠️ Proof Of Concept && Educational Purpose Only ⚠️
 
-## Table of Content
-- [Read This](https://github.com/bytixo/PirateStealer#read-this-please)
-- [Support Server](https://github.com/bytixo/PirateStealer#need-support-)
-- [Donate](https://github.com/bytixo/PirateStealer#donate)
-- [Login Showcase](https://github.com/bytixo/PirateStealer#login)
-- [Password Changed Showcase](https://github.com/bytixo/PirateStealer#changed-password)
-- [Key Features](https://github.com/bytixo/PirateStealer#features)
-- [Configuration](https://github.com/bytixo/PirateStealer#configuration)
-
 ## Skids hall 
 (changing embed colour and removing PirateStealer mention doesnt make your grabber selfcoded dumbass)
 - [PrimeFA](https://cdn.discordapp.com/attachments/902316110198767626/902427254674563092/partial.js) Thx Hideaki for deobfuscation. Spastic owner thinking that making an api gives him the rights to [sell](https://ibb.co/MfnzJC9) PirateStealer
@@ -48,9 +39,9 @@ Check these repos:
 
 # Need support ?
 
-https://discord.gg/racismhq or https://discord.gg/rX52gkDQkp
+https://discord.gg/carrobicho 
 
-Discord: 0x7BTX
+Discord: rush7#0007
 
 # Donate 
 
